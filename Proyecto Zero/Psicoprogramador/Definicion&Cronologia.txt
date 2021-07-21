@@ -11,3 +11,6 @@ Hoy no estoy lo suficientemente lúcido como para leer, dado que me estoy durmie
     -Nota #3: 20-07-2021_Lunes:
 Bueno, hoy podemos tomar la práctica del Proyecto Grupote y su video de elaboración de la web de la Universidad, como escusa para aprender sobre código ajeno.
 Bien. Haciendo eso llegamos hasta el minuto 16:44 siguiendo los pasos, y repitiendo todo lo que estaba haciendo.
+
+    -Nota #4: 21-07-2021_Miércoles:
+Hoy realmente, podemos decír que no analizamos demasiado código externo al propio, hoy fue una cuestión bastante restrospectiva sobre lo de Grupote.
