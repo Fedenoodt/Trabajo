@@ -5,4 +5,7 @@ Definición de la materia: Formular una buena cantidad de micro-ejercicios para 
 
     -Nota #2: 19-07-2021_Lunes:
 
-Bien. Dejando un poco lo filosófico de lado, ahora hay que pasar un tanto al desarrollo. Probemos los ejercicios de esta web de Python: https://pythondiario.com/ejercicios-de-programacion-python .
+Bien. Dejando un poco lo filosófico de lado, ahora hay que pasar un tanto al desarrollo. Probemos los ejercicios de esta web de Python: ( https://pythondiario.com/ejercicios-de-programacion-python ).
+
+    -Nota #3: 21-07-2021_Miercoles:
+Hoy toca seguír tratando los ejercicios de Python Diario.
