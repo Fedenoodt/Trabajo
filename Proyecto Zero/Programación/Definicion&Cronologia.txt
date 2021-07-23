@@ -10,3 +10,6 @@ Bien. Dejando un poco lo filosófico de lado, ahora hay que pasar un tanto al de
     -Nota #3: 21-07-2021_Miercoles:
 Hoy toca seguír tratando los ejercicios de Python Diario.
 Bueno, logramos hacer dos ejercicios, es un avance.
+
+    -Nota #4: 23-07-2021_Viernes:
+Hoy, para empezar me interesa tratar bastante al Proyecto Grupote, avanzar desde ahi. Hoy logramos poco, pero es completamente entendible.
