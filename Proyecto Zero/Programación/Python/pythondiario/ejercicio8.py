@@ -16,14 +16,16 @@ lista1 = ingresar(listaA)
 print('Ahora la otra lista...')
 lista2 = ingresar(listaB)
 
-
-print(lista1)
-print(lista2)
-
 def lectura(valor1, valor2):
+    control = 'No'
+    miembroComun = False
     for i in range(0, len(valor1)):
         for j in range(0, len(valor2)):
-            if valor1[i] == valor2[i]:
-                print('a')
+            if valor1[i] == valor2[j]:
+                control = 'Si'
+    if control == 'Si':
+        miembroComun = True
+    return miembroComun
 
-lectura(lista1, lista2)
+miembroComun = lectura(lista1, lista2)
+print('¿Habrá miembros en común?...\n\n\n\n' + str(miembroComun) + '.')
