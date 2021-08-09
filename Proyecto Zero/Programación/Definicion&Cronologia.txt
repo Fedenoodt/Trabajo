@@ -13,3 +13,6 @@ Bueno, logramos hacer dos ejercicios, es un avance.
 
     -Nota #4: 23-07-2021_Viernes:
 Hoy, para empezar me interesa tratar bastante al Proyecto Grupote, avanzar desde ahi. Hoy logramos poco, pero es completamente entendible.
+
+    -Nota #5: 09-08-2021_Lunes:
+Hoy toca tratar un poco mas python diario, minimo dos ejercicios en este rato.
