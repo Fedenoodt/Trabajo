@@ -1,0 +1,10 @@
+cd "C:\Users\Eduardo\Desktop\Republica\Black Hawk Security Informatics Anonymous Incorporation\Protocolo 6\Trabajo\Horario_rutina"
+git status
+
+git pull Horario_de_Rutina.pdf
+git pull Horario_de_Rutina_Actual.ods
+
+git add Horario_de_Rutina.pdf
+git add Horario_de_Rutina_Actual.ods
+git commit -m "Ajustando horarios."
+git push
