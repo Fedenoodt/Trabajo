@@ -5,9 +5,5 @@ def generar_n_caracteres(caracter):
     resultado = caracter * multiplica
     return resultado
 
-resultado = generar_n_caracteres(caracterActual)
-
 def mostrar(resultado):
     print('El resultado es este ' + resultado)
-
-mostrar(resultado)
