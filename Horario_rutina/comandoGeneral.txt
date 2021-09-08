@@ -10,3 +10,17 @@ git add Horario_de_Rutina_Actual.ods
 git add Horarios_Rutina_Técnicos.ods
 git commit -m "Ajustando horarios."
 git push
+
+cd "/home/fedenoodt/Documentos/BHSIAI/Protocolo 6/GitHub/Trabajo"
+git status
+
+git pull Horario_de_Rutina.pdf
+git pull Horario_de_Rutina_Actual.ods
+git pull Horarios_Rutina_Técnicos.ods
+
+git add Horario_de_Rutina.pdf
+git add Horario_de_Rutina_Actual.ods
+git add Horarios_Rutina_Técnicos.ods
+git commit -m "Ajustando horarios."
+git push
+
