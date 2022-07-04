@@ -1,8 +1,8 @@
-Despejar mesa comedor
+Despejar mesa comedor CHECK
 despejar cocina
 trapear cocina
 borrar huellas living
-tirar mantel viejo a lavar
+tirar mantel viejo a lavar CHECK
 mover a Piki a puerta dormitorio con caloventor
 plegar tubo de las gatas
 revisar....
