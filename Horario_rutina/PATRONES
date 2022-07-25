@@ -1,5 +1,8 @@
 Hasta ahora, los patrones que hay en vista, son:
 
--Gama: (Efectividad del 65%) Este patrón respeta una serie de inicios y cierres a lo largo de la semana muy estrictos. Siendo uno de los únicos momentos laxos en casi todos los niveles, la hora del almuerzo (12:00hs - 14:30hs) presenta fallas en un 15% por la misma razón de ser "inflexible", pero puede ser muy útil para llevar ritmos muy estructurados.
+-Gama: (Efectividad del 65%) Este patrón respeta una serie de inicios y cierres a lo largo de la semana muy estrictos. Siendo uno de los únicos momentos laxos 
+en casi todos los niveles, la hora del almuerzo (12:00hs - 14:30hs) presenta fallas en un 15% por la misma razón de ser "inflexible", pero puede ser muy útil 
+para llevar ritmos muy estructurados.
 
--Épsilon: (Efectividad desconocida) Este patrón respeta un juego de dias en la semana, que se respeta la laxa jerarquía del trabajo, con una serie de pautas a seguir, a lo largo del día, completamente libres de restricciones horarias.
+-Épsilon: (Efectividad desconocida) Este patrón respeta un juego de dias en la semana, que se respeta la laxa jerarquía del trabajo, con una serie de pautas a 
+seguir, a lo largo del día, completamente libres de restricciones horarias.
