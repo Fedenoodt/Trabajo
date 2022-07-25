@@ -8,3 +8,6 @@ Hasta ahora, los patrones que hay en vista, son:
 -Patrón Épsilon (Efectividad desconocida): Este patrón respeta un juego de dias en la semana, que se respeta la laxa jerarquía del trabajo, con una serie de pautas a seguir, a lo largo del día, completamente libres de restricciones horarias.
 
 -Patrón Delta (Efectividad desconocida): Este patrón está pensado para llevar días distintos, en los que en los distintos niveles lleven a cabo ciertas dificultades. Es decir, que en prácticamente todos los niveles mas bajos, se programa y se juega todos los días, pero con una reacción distinta en cada uno de los dias de la semana. Es como meter niveles, adentro de niveles, el horario de por si es de un nivel, y cada uno de los dias de la semana también es un nivel en si mismo. La semana es muy aleatoria.
+
+-Patrón Platteau (Efectividad desconocida): Platteau consiste en generar una meseta de solo nivel 8, haciendo que sean todas las semanas iguales durante los dos meses de 
+vigencia. Esto puede provocar mayor estrés a la hora de prolongarlo mucho, pero puede hacer que las horas se manejen de forma más mecánica, con su particular manera de partir el dia en 8 partes.
